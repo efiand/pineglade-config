@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+	extends: "eslint:all",
 	env: {
 		browser: true,
 		node: true

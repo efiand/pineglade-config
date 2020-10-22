@@ -7,4 +7,5 @@
 __MACOS*/
 node_modules/
 npm-debug.*
+package-lock.json
 Thumbs.db

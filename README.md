@@ -1,6 +1,6 @@
 # pineglade-config
 
-Набор удобных настроек. рекомендованных стандартами и проверенных временем, для кодгайда и сборок.
+Набор повторяющихся из проекта в проект настроек кодгайда и сборок, рекомендованных стандартами и проверенных временем.
 
 ## Установка
 
@@ -37,7 +37,6 @@ const { codeguide, config } = require(`pineglage-config`);
 // codeguide.eslint
 // codeguide.stylelint
 // codeguide.htmlhint
-// config.lintspaces
-// confightmlmin
+// config.htmlmin
 // config.svgo
 ```
