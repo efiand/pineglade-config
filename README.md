@@ -1,4 +1,4 @@
-# pineglade-config
+# pineglade-config [![npm version](https://img.shields.io/npm/v/pineglade-config.svg)](https://www.npmjs.com/package/pineglade-config)
 
 Набор повторяющихся из проекта в проект настроек кодгайда и сборок, рекомендованных стандартами и проверенных временем.
 

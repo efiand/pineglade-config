@@ -8,10 +8,10 @@ module.exports = {
 	plugins: [
 		{ removeViewBox: false },
 		{ removeTitle: true },
-		{ cleanupNumericValues: Configs.SVGO_PLUGINS_CONFIG },
-		{ convertPathData: Configs.SVGO_PLUGINS_CONFIG },
-		{ transformsWithOnePath: Configs.SVGO_PLUGINS_CONFIG },
-		{ convertTransform: Configs.SVGO_PLUGINS_CONFIG },
-		{ cleanupListOfValues: Configs.SVGO_PLUGINS_CONFIG }
+		{ cleanupNumericValues: SVGO_PLUGINS_CONFIG },
+		{ convertPathData: SVGO_PLUGINS_CONFIG },
+		{ transformsWithOnePath: SVGO_PLUGINS_CONFIG },
+		{ convertTransform: SVGO_PLUGINS_CONFIG },
+		{ cleanupListOfValues: SVGO_PLUGINS_CONFIG }
 	]
 };

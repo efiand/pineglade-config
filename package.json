@@ -1,6 +1,6 @@
 {
   "name": "pineglade-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "ISC",
   "repository": "git@github.com:efiand/pineglade-config.git",
   "dependencies": {
