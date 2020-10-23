@@ -9,5 +9,6 @@ module.exports = {
 	config: {
 		htmlmin: require(`./htmlmin`),
 		svgo: require(`./svgo`)
-	}
+	},
+	depends: [`pineglade-config/stylelint`, `pineglade-config/stylelint`]
 };
