@@ -2,6 +2,7 @@
 
 module.exports = {
 	codeguide: {
+		eslint: require(`eslint-config-pineglade`),
 		stylelint: require(`./stylelint`),
 		htmlhint: require(`./htmlhint`)
 	},

@@ -5,7 +5,7 @@
 	"repository": "git@github.com:efiand/pineglade-config.git",
 	"dependencies": {
 		"babel-eslint": "10.1.0",
-		"chalk": "4.1.0",
+		"eslint-config-pineglade": "0.1.0",
 		"stylelint-efiand": "0.1.15"
 	}
 }
