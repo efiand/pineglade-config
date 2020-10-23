@@ -2,7 +2,6 @@
 
 module.exports = {
 	codeguide: {
-	  eslint: require(`./eslint`),
 		stylelint: require(`./stylelint`),
 		htmlhint: require(`./htmlhint`)
 	},
