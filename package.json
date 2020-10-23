@@ -6,6 +6,6 @@
   "dependencies": {
     "babel-eslint": "10.1.0",
     "chalk": "4.1.0",
-    "stylelint-efiand": "0.1.15",
+    "stylelint-efiand": "0.1.15"
   }
 }
