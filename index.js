@@ -2,12 +2,12 @@
 
 module.exports = {
 	codeguide: {
-		eslint: require(`eslint-config-pineglade`),
-		stylelint: require(`./stylelint`),
-		htmlhint: require(`./htmlhint`)
+		eslint: require('eslint-config-pineglade'),
+		stylelint: require('./stylelint'),
+		htmlhint: require('./htmlhint')
 	},
 	config: {
-		htmlmin: require(`./htmlmin`),
-		svgo: require(`./svgo`)
+		htmlmin: require('./htmlmin'),
+		svgo: require('./svgo')
 	}
 };

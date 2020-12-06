@@ -32,7 +32,7 @@ npm i -DE pineglade-config
 ## Использование в gulpfile.js, webpack.config.js и т. п.
 
 ```js
-const { codeguide, config } = require(`pineglage-config`);
+const { codeguide, config } = require('pineglage-config');
 
 // codeguide.eslint
 // codeguide.stylelint

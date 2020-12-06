@@ -3,8 +3,8 @@
 module.exports = {
 	'alt-require': true,
 	'attr-lowercase': [
-		`preserveAspectRatio`,
-		`viewBox`
+		'preserveAspectRatio',
+		'viewBox'
 	],
 	'attr-no-duplication': true,
 	'attr-unsafe-chars': true,
@@ -18,7 +18,6 @@ module.exports = {
 	'id-unique': true,
 	'inline-script-disabled': false,
 	'inline-style-disabled': false,
-	'space-tab-mixed-disabled': `tab`,
 	'spec-char-escape': false,
 	'src-not-empty': true,
 	'style-disabled': false,

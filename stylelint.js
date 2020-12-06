@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require(`stylelint-efiand`);
+module.exports = require('stylelint-efiand');
