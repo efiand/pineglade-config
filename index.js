@@ -31,6 +31,7 @@ module.exports = {
 		SERVER: {
 			cors: true,
 			notify: false,
+			server: 'build',
 			ui: false
 		},
 		STYLELINT: {
