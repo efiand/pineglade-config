@@ -24,7 +24,7 @@ npm i -DE pineglade-config
 {
 	"extends": [
 		"eslint:all",
-		"pineglade-config/eslint"
+		"pineglade"
 	]
 }
 ```
