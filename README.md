@@ -23,7 +23,6 @@ npm i -DE pineglade-config
 ```json
 {
 	"extends": [
-		"eslint:all",
 		"pineglade"
 	]
 }
