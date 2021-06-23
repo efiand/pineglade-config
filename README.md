@@ -13,7 +13,7 @@ npm i -DE pineglade-config
 ```json
 {
 	"extends": [
-		"pineglade-config/stylelint"
+		"pineglade-config/stylelint-modern"
 	]
 }
 ```
